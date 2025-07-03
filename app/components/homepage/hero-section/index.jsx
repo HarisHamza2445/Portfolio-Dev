@@ -1,3 +1,4 @@
+"use client";
 // @flow strict
 
 import { personalData } from "@/utils/data/personal-data";
